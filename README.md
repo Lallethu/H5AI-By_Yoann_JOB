@@ -6,6 +6,6 @@ This is a project in which I had to create a replica from the famous H5AI
 - open config.php
 - modify ```$config["root"] = "your_path_to_the_folder"```
 
-## Lanching your local server
+## Opening the project
 
-- if npm is installed on your machine you can run ```npm serve```
+- open your favorite browser and paste the route to the repo in the browser url
