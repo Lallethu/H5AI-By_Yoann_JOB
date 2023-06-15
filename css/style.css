@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('../fonts/Ubuntu-Bold.ttf');
+}
+
+body {
+    font-family: 'Ubuntu';
+    background-color: #217074;
+}
+
+.navbar {
+    background-color: #1a4785;
+    min-height: 60px;
+    color: white;
+}
+
+.icon {
+    width: 42px;
+}
+
+.tree {
+    overflow-y: auto;
+    max-height: 475px;
+}
+
+ul {
+    padding: 1rem;
+}
+
+.title {
+    padding-left: 25px;
+}
+
+.folder,
+.file {
+    user-select: none;
+    word-wrap: break-word;
+    background-color: #c2c7cf;
+    padding-bottom: 0.25rem;
+    margin-top: 0 auto;
+    padding-top: 0;
+    padding: 5px 5px 10px 15px;
+    border: 1px solid #454c58;
+    transition: all .245s ease-in;
+    cursor: pointer;
+}
+
+.read-me {
+    background-color: #c2c7cf;
+}
+
+li>img{
+    width: 22px;
+    margin-right: 5px;
+}
+
+.file>div {
+    display: flex;
+    align-items: center;
+}
+
+.file #favicon {
+    padding-right: 6px;
+}
+
+.file:first-child,
+.folder:first-child {
+    border-radius: 8px 8px 0 0;
+}
+
+.file:last-child,
+.folder:last-child {
+    border-radius: 0 0 8px 8px;
+}
+
+.folder:hover,
+.file:hover {
+    background-color: #edc5ab8a;
+    padding: 10px;
+    transition: all .245s ease-in;
+}
+
+.svg {
+    background-image: url('../assets/folder-solid.svg');
+    background-repeat: no-repeat;
+}
+
+.close-dir>.content {
+    transition: all .245s ease-in;
+    display: none;
+}
+
+.folder:not(.close-dir)>.svg {
+    background-image: url('../assets/folder-open-solid.svg');
+    background-repeat: no-repeat;
+}
