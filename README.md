@@ -10,3 +10,5 @@ This is a project in which I had to create a replica of the famous H5AI.
 ## Opening the project:
 
 - open your favorite browser and paste the route to the repo in the browser url
+### Or
+- if your machine have apache you can relocate the folder to he : apache2/htdocs on windows or computer/var/www/html on linux
