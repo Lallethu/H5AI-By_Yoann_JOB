@@ -1,5 +1,6 @@
 # H5AI-By_Yoann_JOB
-This is a project in which I had to create a replica from the famous H5AI
+                
+This is a project in which I had to create a replica of the famous H5AI.
 
 ## Usesage of the config.php:
 - add your desired folderthe  at the root of the repo
