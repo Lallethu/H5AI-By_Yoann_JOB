@@ -14,6 +14,6 @@ This is a project in which I had to create a replica of the famous H5AI.
 ### Or
 - if your machine have apache you can relocate the folder to he : apache2/htdocs on windows or computer/var/www/html on linux
 
-## Screens:
+## Screen:
 
 ![View from H5AI](./activity-2.png?raw=true "Screen H5AI")
