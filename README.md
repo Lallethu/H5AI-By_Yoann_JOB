@@ -9,3 +9,7 @@ This is a project in which I had to create a replica from the famous H5AI
 ## Opening the project:
 
 - open your favorite browser and paste the route to the repo in the browser url
+
+## Screens:
+
+![View from H5AI](./activity-2.png?raw=true "Screen H5AI")
