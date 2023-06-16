@@ -10,12 +10,10 @@ This is a project in which I had to create a replica of the famous H5AI.
 ## Opening the project:
 
 - open your favorite browser and paste the route to the repo in the browser url
-<<<<<<< HEAD
+
+### Or
+- if your machine have apache you can relocate the folder to he : apache2/htdocs on windows or computer/var/www/html on linux
 
 ## Screens:
 
 ![View from H5AI](./activity-2.png?raw=true "Screen H5AI")
-=======
-### Or
-- if your machine have apache you can relocate the folder to he : apache2/htdocs on windows or computer/var/www/html on linux
->>>>>>> 8b169411e3fee2c930323f0be440ad326d20cd40
